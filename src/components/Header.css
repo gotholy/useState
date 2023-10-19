@@ -1,0 +1,28 @@
+header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 3vh;
+}
+.headerSection {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 200px;
+  width: 30vw;
+  border: 1px solid black;
+}
+.dark {
+  background-color: Black;
+  color: white;
+}
+h1 {
+  font-size: 3rem;
+}
+button {
+  height: 50px;
+  width: 200px;
+  border-radius: 25px;
+  border: 1px solid black;
+  background-color: whitesmoke;
+}

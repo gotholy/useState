@@ -1,0 +1,24 @@
+.counterSection {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-bottom: 10vh;
+}
+.counterWrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border: 1px solid black;
+  height: 150px;
+  width: 300px;
+}
+.counterSection p {
+  margin-top: 5vh;
+}
+.buttonWrapper button {
+  border-radius: 0;
+  height: 50px;
+  width: 50px;
+  margin: 0 2vw;
+  margin-top: 50px;
+}
